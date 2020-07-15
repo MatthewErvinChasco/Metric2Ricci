@@ -19,7 +19,7 @@ Mathworks
 
 
 # Details:
-Einstein’s Theory of General Relativity describes how matter and energy curve spacetime, giving rise to what we observe as gravitational forces. The curvature of spacetime can be described in a matrix known as a metric tensor ![equation](https://latex.codecogs.com/gif.latex?g_%7B%5Cmu%5Cnu%7D).. If we want to see if a given metric is a solution to the Einstein field equations, we compute the Einstein tensor. The Einstein tensor ![equation](https://latex.codecogs.com/gif.latex?G_%7B%5Cmu%5Cnu%7D) describes the curvature of spacetime in how it relates to the presence of mass and energy described in the stress-energy tensor ![equation](https://latex.codecogs.com/gif.latex?T_%7B%5Cmu%5Cnu%7D).
+Einstein’s Theory of General Relativity describes how matter and energy curve spacetime, giving rise to what we observe as gravitational forces. The curvature of spacetime can be described in a matrix known as a metric tensor ![equation](https://latex.codecogs.com/gif.latex?g_%7B%5Cmu%5Cnu%7D).. If we want evaluate whether or not a given metric is a solution to the Einstein field equations, we compute the Einstein tensor. The Einstein tensor ![equation](https://latex.codecogs.com/gif.latex?G_%7B%5Cmu%5Cnu%7D) describes the curvature of spacetime in how it relates to the presence of mass and energy described in the stress-energy tensor ![equation](https://latex.codecogs.com/gif.latex?T_%7B%5Cmu%5Cnu%7D).
 
 ![equation](https://latex.codecogs.com/gif.latex?G_%7B%5Cmu%5Cnu%7D%20%3D%20%5Cfrac%7B8%5Cpi%20G%7D%7Bc%5E4%7D%20T_%7B%5Cmu%5Cnu%7D)
 

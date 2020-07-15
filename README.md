@@ -8,7 +8,7 @@ The *ExamplesOfMetrics.mlx* code describes and sets up some examples of metric t
 # Purpose:
 The primary purpose of this code is to assist academics in solving Einstein's field equations:
 
-![equation](https://latex.codecogs.com/gif.latex?R_%7B%5Cmu%5Cnu%7D%20-%20%5Cfrac%7B1%7D%7B2%7D%20R%20g_%7B%5Cmu%5Cnu%7D%20%3D%20%5Cfrac%7B8%5Cpi%20G%7D%7Bc%5E4%7D%20T_%7B%5Cmu%5Cnu%7D)
+![equation](https://latex.codecogs.com/gif.latex?R_%7B%5Cmu%5Cnu%7D%20-%20%5Cfrac%7B1%7D%7B2%7D%20R%20g_%7B%5Cmu%5Cnu%7D%20&plus;%20%5CLambda%20g_%7B%5Cmu%5Cnu%7D%20%3D%20%5Cfrac%7B8%5Cpi%20G%7D%7Bc%5E4%7D%20T_%7B%5Cmu%5Cnu%7D)
 
 This can be a cumbersome task if done by hand. This code allows the user to input a spacetime metric or metric tensor of their own design and output the Christoffel symbols, Ricci tensor and Ricci scalar. They can then, for example, test if the metric is a valid solution to Einstein's field equations.
 

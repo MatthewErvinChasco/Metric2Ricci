@@ -56,11 +56,10 @@ x^\nu}{ds}$$
 The Ricci curvature tensor and scalar can then be described in terms of the 
 Christoffel symbols and spacetime metric:
 
-$$$R_{\alpha\beta} = \partial_\rho \Gamma^\rho_{\beta\alpha} - \partial_\beta 
-\Gamma^\rho_{\rho\alpha} + \Gamma^\rho_{\rho\lambda} \Gamma^\lambda_{\beta\alpha} 
-- \Gamma^\rho_{\beta\lambda} \Gamma^\lambda_{\rho\alpha}$$
+$$R_{\alpha\beta} = \partial_\rho \Gamma^\rho_{\beta\alpha} - \partial_\beta 
+\Gamma^\rho_{\rho\alpha} + \Gamma^\rho_{\rho\lambda} \Gamma^\lambda_{\beta\alpha} - \Gamma^\rho_{\beta\lambda} \Gamma^\lambda_{\rho\alpha}$$
 
-$$$R = g^{\alpha\beta}R_{\alpha\beta}$$
+$$R = g^{\alpha\beta}R_{\alpha\beta}$$
 
 
 Matthew E Chasco

@@ -1,4 +1,4 @@
-# Metric2Ricci
+# Calculate Ricci Curvature Tensors from Spacetime Metrics
 Files:
 The |*Metric2Ricci.mlx*| code contains the function that does the computations 
 using the MATLAB® Symbolic Math Toolbox™. 

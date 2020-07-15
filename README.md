@@ -24,7 +24,7 @@ Einstein’s Theory of General Relativity describes how matter and energy curve 
 ![equation](https://latex.codecogs.com/gif.latex?G_%7B%5Cmu%5Cnu%7D%20%3D%20%5Cfrac%7B8%5Cpi%20G%7D%7Bc%5E4%7D%20T_%7B%5Cmu%5Cnu%7D)
 
 The Einstein tensor itself is composed of the Ricci curvature tensor ![equation](https://latex.codecogs.com/gif.latex?R_%7B%5Cmu%5Cnu%7D)
-and Ricci scalar R and spacetime metric ![equation](https://latex.codecogs.com/gif.latex?g_%7B%5Cmu%5Cnu%7D).
+and Ricci scalar ![equation](https://latex.codecogs.com/gif.latex?R) and spacetime metric ![equation](https://latex.codecogs.com/gif.latex?g_%7B%5Cmu%5Cnu%7D).
 
 ![equation](https://latex.codecogs.com/gif.latex?G_%7B%5Cmu%5Cnu%7D%20%3D%20R_%7B%5Cmu%5Cnu%7D%20-%20%5Cfrac%7B1%7D%7B2%7D%20R%20g_%7B%5Cmu%5Cnu%7D)
 

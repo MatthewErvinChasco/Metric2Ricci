@@ -1,13 +1,13 @@
 # Calculate Ricci Curvature Tensors from Spacetime Metrics
 
-*Files:*
+# Files:
 The |*Metric2Ricci.mlx*| code contains the function that does the computations 
 using the MATLAB® Symbolic Math Toolbox™. 
 
 The |*ExamplesOfMetrics.mlx*| code describes and sets up some examples of 
 metric tensors and spacetime metrics.
 
-*Purpose:*
+# Purpose:
 The primary purpose of this code is to assist academics in solving Einstein's 
 field equations:
 

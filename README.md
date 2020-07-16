@@ -39,8 +39,7 @@ The Christoffel symbols play an explicit role in the geodesic equation:
 
 ![equation](https://latex.codecogs.com/gif.latex?%5Cfrac%7Bd%5E2%20x%5E%5Cbeta%7D%7Bds%5E2%7D%20&plus;%20%5CGamma%5E%5Cbeta_%7B%5Cmu%5Cnu%7D%20%5Cfrac%7Bd%20x%5E%5Cmu%7D%7Bds%7D%20%5Cfrac%7Bd%20x%5E%5Cnu%7D%7Bds%7D) 
 
-The Ricci curvature tensor and scalar can then be described in terms of the 
-Christoffel symbols and spacetime metric:
+The Ricci curvature tensor and scalar can then be described in terms of the Christoffel symbols and spacetime metric:
 
 ![equation](https://latex.codecogs.com/gif.latex?R_%7B%5Calpha%5Cbeta%7D%20%3D%20%5Cpartial_%5Crho%20%5CGamma%5E%5Crho_%7B%5Cbeta%5Calpha%7D%20-%20%5Cpartial_%5Cbeta%20%5CGamma%5E%5Crho_%7B%5Crho%5Calpha%7D%20&plus;%20%5CGamma%5E%5Crho_%7B%5Crho%5Clambda%7D%20%5CGamma%5E%5Clambda_%7B%5Cbeta%5Calpha%7D%20-%20%5CGamma%5E%5Crho_%7B%5Cbeta%5Clambda%7D%20%5CGamma%5E%5Clambda_%7B%5Crho%5Calpha%7D)
 
